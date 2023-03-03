@@ -1,3 +1,6 @@
+[B]1.0.4[/B]
+Fixed poster size
+
 [B]1.0.2[/B]
 Centered focused item in Shifted view
 
