@@ -1,4 +1,7 @@
 [B]1.0.4[/B]
+Fixed glow height
+
+[B]1.0.4[/B]
 Fixed poster size
 
 [B]1.0.2[/B]
