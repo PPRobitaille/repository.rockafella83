@@ -1,2 +1,5 @@
+[B]1.0.2[/B]
+Centered focused item in Shifted view
+
 [B]1.0.1[/B]
 Changed approach to hide scrollbars
