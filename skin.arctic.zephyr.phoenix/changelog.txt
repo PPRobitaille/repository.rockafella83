@@ -1,4 +1,7 @@
-[B]1.0.4[/B]
+[B]1.0.6[/B]
+Updated from 2.0.2
+
+[B]1.0.5[/B]
 Fixed glow height
 
 [B]1.0.4[/B]
