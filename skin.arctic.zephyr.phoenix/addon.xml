@@ -33,7 +33,7 @@
             <screenshot>resources/screenshot-09.jpg</screenshot>
             <screenshot>resources/screenshot-10.jpg</screenshot>
         </assets>
-        <news>1.0.6[CR]- Updated from 2.0.2</news>
+        <news>1.0.7[CR]- Fix setting to disable scrollbar after 2.0.2</news>
         <summary lang="de">Klar, minimalistisch, elegant, einfach, leicht. Basiert auf dem original Arctic: Zephyr Skin von rockafella83.</summary>
         <summary lang="en">Clean, minimal, elegant, simple, light. Based on the original Arctic: Zephyr skin by rockafella83.</summary>
         <summary lang="en_AU">Clean, minimal, elegant, simple, light. Based on the original Arctic: Zephyr skin by rockafella83.</summary>
