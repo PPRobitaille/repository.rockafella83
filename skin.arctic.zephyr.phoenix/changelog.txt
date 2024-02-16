@@ -1,3 +1,6 @@
+[B]3.0.1[/B]
+Fixed poster eight in view 509 (shift)
+
 [B]2.0.2[/B]
 Improved media flags (!thx @Nanomani)
 Added setting to use thumb instead of fanart for background on episodes
