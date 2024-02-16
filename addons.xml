@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addons>
-    <addon id="skin.arctic.zephyr.phoenix" version="3.0.1" name="Arctic: Zephyr - Phoenix" provider-name="Rockafella83">
+    <addon id="skin.arctic.zephyr.phoenix" version="3.0.2" name="Arctic: Zephyr - Phoenix" provider-name="Rockafella83">
         <requires>
             <import addon="xbmc.gui" version="5.17.0"/>
             <import addon="script.skinshortcuts" version="0.4.0"/>
@@ -32,7 +32,7 @@
                 <screenshot>resources/screenshot-09.jpg</screenshot>
                 <screenshot>resources/screenshot-10.jpg</screenshot>
             </assets>
-            <news>3.0.1[CR] Fixed poster height in view 509 (shift) [CR]-</news>
+            <news>3.0.2[CR] Fixed poster height in view 509 (shift) [CR]-</news>
             <summary lang="de">Klar, minimalistisch, elegant, einfach, leicht. Basiert auf dem original Arctic: Zephyr Skin von jurialmunkey.</summary>
             <summary lang="en">Clean, minimal, elegant, simple, light. Based on the original Arctic: Zephyr skin by jurialmunkey.</summary>
             <summary lang="en_AU">Clean, minimal, elegant, simple, light. Based on the original Arctic: Zephyr skin by jurialmunkey.</summary>
